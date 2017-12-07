@@ -351,3 +351,4 @@ Create a form with a custom action and method
 ```
 
 Reference: [http://guides.rubyonrails.org/form_helpers.html](http://guides.rubyonrails.org/form_helpers.html)
+Autor: [https://gist.github.com/mdang](https://gist.github.com/mdang)
