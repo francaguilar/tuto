@@ -2,7 +2,8 @@
 
 ### Architecture
 
-<img src="https://raw.githubusercontent.com/mdang/resources/master/ruby/rails/rails_architecture.png">
+![Arquitectura de Rails](rails_architecture.png)
+
 
 ### Create a new application
 
