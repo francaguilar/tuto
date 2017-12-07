@@ -2,7 +2,7 @@
 
 ### Architecture
 
-![Arquitectura de Rails](rails_architecture.png)
+![Arquitectura de Rails](rails_architecture.png "Arquitectura de Rails")
 
 
 ### Create a new application
